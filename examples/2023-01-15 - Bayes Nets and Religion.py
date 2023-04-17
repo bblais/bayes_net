@@ -76,7 +76,7 @@ net.P("Messiah | Evidence=True")
 net
 
 
-# ## Number 2
+# ## Number 2 -- this article is less well-defined, so I didn't finish it.
 
 # https://medium.com/@nick-meader/does-naturalism-or-christianity-better-account-for-the-universes-existence-4f44683a4c42
 
